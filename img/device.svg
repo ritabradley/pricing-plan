@@ -15,10 +15,10 @@
 </g>
 <rect x="13" y="4" fill="#2D2220" width="6" height="1"/>
 <rect x="13" y="4" fill="#2D2220" width="6" height="1"/>
-<rect x="14" y="5" fill="#5FFFBA" width="6" height="1"/>
-<rect x="15" y="7" fill="#5FFFBA" width="1" height="17"/>
-<rect x="13" y="7" fill="#5FFFBA" width="1" height="17"/>
-<rect x="17" y="7" fill="#5FFFBA" width="6" height="17"/>
+<rect x="14" y="5" fill="#cabbe9" width="6" height="1"/>
+<rect x="15" y="7" fill="#cabbe9" width="1" height="17"/>
+<rect x="13" y="7" fill="#cabbe9" width="1" height="17"/>
+<rect x="17" y="7" fill="#cabbe9" width="6" height="17"/>
 <circle fill="#2D2220" cx="16" cy="27" r="1"/>
 <path fill="#2D2220" d="M10,9.5C10,9.224,9.776,9,9.5,9h-2C7.224,9,7,9.224,7,9.5l0,0C7,9.776,7.224,10,7.5,10h2
 	C9.776,10,10,9.776,10,9.5L10,9.5z"/>
