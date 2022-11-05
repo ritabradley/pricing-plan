@@ -27,3 +27,8 @@ body {
 .pricing-plan__item:hover {
 	background-color: #f1f1f1;
 }
+
+.pricing-plan__icon {
+	max-width: 80px;
+	width: 100%;
+}
