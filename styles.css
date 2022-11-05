@@ -1,5 +1,29 @@
+html {
+	font-size: 62.5%;
+}
+
 body {
+	background: linear-gradient(220.55deg, #a1eafb 0%, #cabbe9 50%,#ffcef3 100%);;
+	display: grid;
+	font-family: "Roboto", sans-serif;
+	font-size: 1.6rem;
+    font-weight: 400;
 	min-height: 100vh;
-	display: flex;
 	place-content: center;
+}
+
+.pricing-plan__list {
+	background-color: #fdfdfd;
+	border-radius: .5rem;
+	padding: 4rem;
+	text-align: center;
+}
+
+.pricing-plan__item {
+	padding: 1.5rem;
+    border-radius:.5rem;
+}
+
+.pricing-plan__item:hover {
+	background-color: #f1f1f1;
 }
