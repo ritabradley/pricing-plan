@@ -17,15 +17,17 @@ body {
 	border-radius: .5rem;
 	padding: 4rem;
 	text-align: center;
+	box-shadow: 0 8px 30px rgb(0,0,0,0.12);
 }
 
 .pricing-plan__item {
 	padding: 1.5rem;
     border-radius:.5rem;
+	transition: background-color .55s ease-in-out;
 }
 
 .pricing-plan__item:hover {
-	background-color: #f1f1f1;
+	background-color: #f3f3f3;
 }
 
 .pricing-plan__icon {
